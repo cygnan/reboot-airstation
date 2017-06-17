@@ -31,7 +31,7 @@ Even if your router is not listed above, this script should probably work if it 
 
 1. Open reboot.sh with a text editor, and replace "192.168.11.1" with your router's IP address, and "" with its password like below if changed.
 
-![GIF](https://user-images.githubusercontent.com/25865313/27253001-eeca661c-53a5-11e7-82ac-93fc29d49ae2.gif)
+   ![GIF](https://user-images.githubusercontent.com/25865313/27253001-eeca661c-53a5-11e7-82ac-93fc29d49ae2.gif)
 
 3. After saving it, type "sh ./reboot.sh" with Bash or a terminal emulator in the directory the script exists.
 
