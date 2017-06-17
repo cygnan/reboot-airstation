@@ -25,7 +25,7 @@ Even if your router is not listed above, this script should probably work if it 
 
 ![UI](https://user-images.githubusercontent.com/25865313/27252525-91070486-539b-11e7-8f55-0fca3da6d5d2.jpg)
 
-# Usage
+## Usage
 
 1. Download [reboot.sh](https://raw.githubusercontent.com/cygnan/reboot-airstation/master/reboot.sh).
 
