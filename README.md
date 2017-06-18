@@ -30,13 +30,13 @@ Even if your router is not listed above, this script should probably work if it 
 
 1. Download [reboot.sh](https://raw.githubusercontent.com/cygnan/reboot-airstation/master/reboot.sh).
 
-1. Open reboot.sh with a text editor, and replace "192.168.11.1" with your router's IP address, and "" with its password like below if changed.
+1. Open reboot.sh with a text editor, replace `192.168.11.1` with your router's IP address, and insert its password like below if changed.
 
    ![GIF](https://user-images.githubusercontent.com/25865313/27253001-eeca661c-53a5-11e7-82ac-93fc29d49ae2.gif)
 
-3. After saving it, type "sh ./reboot.sh" with Bash or a terminal emulator in the directory the script exists.
+3. After saving it, type `sh ./reboot.sh` with Bash or a terminal emulator in the directory the script exists.
 
-   **Note:** If you use a Debian-based Linux OS (_e.g._, Debian, Ubuntu), type "bash ./reboot.sh" instead.
+   **Note:** If you use a Debian-based Linux OS (_e.g._, Debian, Ubuntu), type `bash ./reboot.sh` instead.
 
 ## License
 
