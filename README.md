@@ -2,6 +2,7 @@
 
 [![MIT License](http://img.shields.io/badge/license-MIT-cccc00.svg?style=flat)](LICENSE.md)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/cygnan/reboot-airstation.svg?style=flat)](https://github.com/cygnan/reboot-airstation/pulls)
+[![GitHub issues](https://img.shields.io/github/issues/cygnan/reboot-airstation.svg?style=flat)](https://github.com/cygnan/reboot-airstation/issues)
 
 An Ash script to reboot a Buffalo AirStation router.
 
