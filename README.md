@@ -14,7 +14,7 @@ An Ash script to reboot a Buffalo AirStation router.
 
 - #### Optimized for embedded Linux environment
 
-  This script uses neither wget nor curl command. It's useful for embedded Linux environment. Some busybox binaries are very limited, so curl command is not there and wget command can't send POST requests. This script uses netcat command instead, so run successfully in that kind of environment.
+  This script uses neither wget nor curl command. It's useful for embedded Linux environment. Some busybox binaries are very limited, so curl command is not there and wget command can't send POST requests. This script uses netcat command instead, so runs successfully in that kind of environment.
 
 ## A supported model
 
