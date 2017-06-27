@@ -8,9 +8,9 @@ An Ash script to reboot a Buffalo AirStation router.
 
 ## Features
 
-- #### Implementation of reboot functionality of AirStation's web client
+- #### Implementation of reboot functionality of an AirStation router's web client
 
-  As AirStation doesn't provide any standard API for communicating, this script is just a shortcut to reboot functionality of the router's web client.
+  As an AirStation router doesn't provide any standard API for communicating, this script is just a shortcut to reboot functionality of the router's web client.
 
 - #### Optimized for embedded Linux environment
 
