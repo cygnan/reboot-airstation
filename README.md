@@ -22,7 +22,7 @@ An ash script to reboot a Buffalo AirStation router.
 
   **Note:** Only Japanese firmware supported.
 
-Even if your router is not listed above, this script should probably work if it has the UI like below.
+Even if your router isn't listed above, this script should probably work if it has the UI like below.
 
 ![UI](https://user-images.githubusercontent.com/25865313/27252525-91070486-539b-11e7-8f55-0fca3da6d5d2.jpg)
 
