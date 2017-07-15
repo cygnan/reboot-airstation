@@ -1,8 +1,6 @@
 # reboot-airstation
 
 [![MIT License](http://img.shields.io/badge/license-MIT-cccc00.svg?style=flat)](LICENSE.md)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/cygnan/reboot-airstation.svg?style=flat)](https://github.com/cygnan/reboot-airstation/pulls)
-[![GitHub issues](https://img.shields.io/github/issues/cygnan/reboot-airstation.svg?style=flat)](https://github.com/cygnan/reboot-airstation/issues)
 
 An ash script to reboot a Buffalo AirStation router.
 
@@ -37,6 +35,14 @@ Even if your router isn't listed above, this script should probably work if it h
 3. After saving it, type `sh ./reboot.sh` with Bash or a terminal emulator in the directory the script exists.
 
    **Note:** If you use a Debian-based Linux OS (_e.g._, Debian, Ubuntu), type `bash ./reboot.sh` instead.
+
+## Contribution
+
+1. Fork it
+1. Create your feature branch
+1. Commit your changes
+1. Push to the branch
+1. Create a new Pull Request
 
 ## License
 
